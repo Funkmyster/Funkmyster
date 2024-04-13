@@ -27,7 +27,12 @@
 
 ###
 
-<p align="left">I'm Jacob from Texas<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Jacob from Texas
+  <br>
+  <br>- 🔭 I’m working as a Partner and CEO of a consulting firm
+  <br>- 📚 I'm currently learning Rust and Solana
+  <br>- ⚡ In my free time I code
+</p>
 
 ###
 
