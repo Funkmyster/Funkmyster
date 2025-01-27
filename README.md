@@ -29,9 +29,9 @@
 
 <p align="left">I'm Jacob from Texas
   <br>
-  <br>- 🔭 I’m working as a Partner and CEO of a consulting firm
-  <br>- 📚 I'm currently learning Rust and Solana
-  <br>- ⚡ In my free time I code
+  <br>- 🔭 I do consulting for Clients in Crisis
+  <br>- 📚 Constant Learning
+  <br>- ⚡ Constant Delivery
 </p>
 
 ###
